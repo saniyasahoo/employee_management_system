@@ -22,3 +22,4 @@
 3. Configure PostgreSQL in .env
 4. Run: npm start
 5. Test APIs using Postman
+
